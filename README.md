@@ -1,1 +1,2 @@
 # lekcja
+Pierwsza lekcja java
